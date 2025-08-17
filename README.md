@@ -70,14 +70,6 @@
 
 <hr>
 
-## 🌟 Proyectos Destacados
-
-- [**SoportePCAPP**](https://github.com/mc-thay/SoportePCAPP) 
-  _Aplicación para conectar técnicos con clientes usando Google Maps y Firebase._
-- [**Proyecto de Farmacia**](https://github.com/mc-thay/FarmaciaApp) 
-  _Sistema para gestionar ventas y stock de medicamentos con reportes avanzados._
-- [**OSINT Toolkit**](https://github.com/mc-thay/OSINT-Toolkit) 
-  _Herramienta de recolección de información basada en OSINT y ciberseguridad._
 
 Puedes encontrar más en la sección de [repositorios](https://github.com/mc-thay?tab=repositories).
 
